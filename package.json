@@ -1,0 +1,13 @@
+{
+  "name": "sky-chat",
+  "version": "1.0.0",
+  "description": "친구들과 쓰는 스카이 블루 실시간 채팅",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "socket.io": "^4.8.0"
+  }
+}
