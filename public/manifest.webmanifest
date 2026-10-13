@@ -1,0 +1,14 @@
+{
+  "id": "/",
+  "name": "중도일보 사우회",
+  "short_name": "사우회",
+  "description": "중도일보 사우들이 소식과 메시지를 나누는 공간",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b0c0f",
+  "theme_color": "#0b0c0f",
+  "icons": [
+    { "src": "/joongdo-logo.png", "sizes": "422x422", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
